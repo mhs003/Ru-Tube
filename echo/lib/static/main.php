@@ -24,8 +24,8 @@ if(!empty($error)){
       </div>
     <div id="nav-bd" class="nav-itm">
       <a href="index.php">Home</a>
-      <a href="help.php">Help</a>
-      <a href="about.php">About</a>
+      <a href="#">Help</a>
+      <a href="#">About</a>
     </div>
     
     <h2 class="line-title">Download Youtube Videos</h2>
