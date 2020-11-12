@@ -14,14 +14,14 @@ function formatBytes($size, $precision = 2){
 <!DOCTYPE html>
 <html>
   <head>
-    <title>YD - <?php echo $title ?></title>
+    <title>RT - <?php echo $title ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/style.css" />
     <script src="assets/js/script.js"></script>
   </head>
   <body style="">
     <div class="top-nav">
-      <a href="." class="nav-name">Youtube Direct</a>
+      <a href="." class="nav-name">Ru-Tube</a>
       <div onClick="navToggle(this)" class="nav-toggle">
         <span class="bar1"></span>
         <span class="bar2"></span>
@@ -30,8 +30,8 @@ function formatBytes($size, $precision = 2){
       </div>
     <div id="nav-bd" class="nav-itm">
       <a href="index.php">Home</a>
-      <a href="help.php">Help</a>
-      <a href="about.php">About</a>
+      <a href="#">Help</a>
+      <a href="#">About</a>
     </div>
     
     <h2 class="line-title">Download Youtube Videos</h2>
