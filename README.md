@@ -13,7 +13,7 @@ Also <code>cURL</code> must be enabled in your host, so the script can work well
 ---
 
 **A live environment for the script:**
-[https://d-gd.herokuapp.com/](https://d-gd.herokuapp.com/)
+[https://ru-tube.herokuapp.com//](https://ru-tube.herokuapp.com/)
 
 *[Android app is coming ~~soon~~]*
 
