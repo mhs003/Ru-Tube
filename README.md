@@ -22,6 +22,8 @@ Installation is easy. The app does not contains any database, so you can just de
 **A live environment for the app:**
 [https://ru-tube.herokuapp.com/](https://ru-tube.herokuapp.com/)
 
+**For more information on ``How to get youtube video info``, please see this repo:** [mhs003/Youtube-Direct](https://github.com/mhs003/Youtube-Direct)
+
 *[Android app is coming ~~soon~~]*
 
 #### © *Monzurul Hasan*
