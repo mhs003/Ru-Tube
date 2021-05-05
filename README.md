@@ -3,4 +3,4 @@
 
 Download any youtube video at any quality easily from the web!
 
-*[Android app is coming soon]*
+*[Android app is coming ~~soon~~]*
