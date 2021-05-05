@@ -20,7 +20,7 @@ Installation is easy. The app does not contains any database, so you can just de
 ---
 
 **A live environment for the app:**
-[https://ru-tube.herokuapp.com//](https://ru-tube.herokuapp.com/)
+[https://ru-tube.herokuapp.com/](https://ru-tube.herokuapp.com/)
 
 **For more information of how to get youtube video info, please see the repo:** [mhs003/Youtube-Direct](https://github.com/mhs003/Youtube-Direct)
 
