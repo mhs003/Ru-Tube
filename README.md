@@ -12,7 +12,12 @@ Also <code>cURL</code> must be enabled in your host, so the script can work well
  
 ---
 
-**A live environment for the script:**
+# How to install
+Installation is easy. The app does not contains any database, so you can just deploy the files to your host and your site will start working!
+
+---
+
+**A live environment for the app:**
 [https://ru-tube.herokuapp.com//](https://ru-tube.herokuapp.com/)
 
 *[Android app is coming ~~soon~~]*
